@@ -69,5 +69,8 @@
     "color": {
       "dark": "#090D0E"
     }
+  },
+  "fonts": {
+    "family": "Inter"
   }
 }
