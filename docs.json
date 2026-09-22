@@ -3,9 +3,9 @@
   "theme": "almond",
   "name": "Howdrm.works",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#009689",
+    "light": "#00BBA7",
+    "dark": "#0D9373"
   },
   "favicon": {
     "light": "/images/round-logo.svg",
@@ -63,6 +63,11 @@
   "integrations": {
     "ga4": {
       "measurementId": "G-QLCKRKMERW"
+    }
+  },
+  "background": {
+    "color": {
+      "dark": "#090D0E"
     }
   }
 }
