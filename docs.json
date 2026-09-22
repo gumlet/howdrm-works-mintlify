@@ -56,5 +56,10 @@
       "github": "https://github.com/gumlet"
     }
   },
-  "description": "A starter guide on how DRM for videos work."
+  "description": "A starter guide on how DRM for videos work.",
+  "integrations": {
+    "ga4": {
+      "measurementId": "G-QLCKRKMERW"
+    }
+  }
 }
