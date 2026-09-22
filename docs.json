@@ -21,13 +21,8 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Gumlet.com",
+          "href": "https://www.gumlet.com",
           "icon": "newspaper"
         }
       ]
