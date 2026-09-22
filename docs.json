@@ -16,7 +16,14 @@
           "index",
           "quickstart"
         ]
-      }
+      },
+      "introduction",
+      "history",
+      "encryption",
+      "drm-systems",
+      "key-exchange-process",
+      "hardware-security",
+      "gumlet-drm"
     ],
     "global": {
       "anchors": [
